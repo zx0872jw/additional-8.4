@@ -1,6 +1,6 @@
 # additional-8.4
-# write def main(): ... on line 3
 
+def main():
     grocery_list = {}
     grocery_1 = str(input("Enter grocery item 1: "))
     price_1 = int(input("Enter price item 1: "))
